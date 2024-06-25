@@ -1,4 +1,4 @@
-## Привет! Меня зовут Владимир!
+## Привет👋! Меня зовут Владимир!
 
 <!--
 **Plotniy33/Plotniy33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
